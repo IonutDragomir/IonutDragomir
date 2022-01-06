@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- :yum: Hi! I'm Dragomir Ionut.
+- :yum: I'm Dragomir Ionut.
+- :computer: I'm intrested in Software Development and Web Development.
+- 📫 You can reach me: at ionutdragomir1410@yahoo.com
