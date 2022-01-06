@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :yum: Hi! I'm Dragomir Ionut.
+ :yum: Hi! I'm Dragomir Ionut.
