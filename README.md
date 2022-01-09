@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - :yum: I'm Dragomir Ionut
 - :computer: I'm intrested in Software Development and Web Development
 - 📫 You can reach me at: ionutdragomir1410@yahoo.com
+- :coffee: LinkedIn account:
 - :rocket: My projects: https://ionutdragomir.github.io/mainPage.html
