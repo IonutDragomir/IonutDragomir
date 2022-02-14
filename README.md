@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - :computer: I'm intrested in Software Development and Web Development
 - 📫 You can reach me at: ionutdragomir1410@yahoo.com
 - :coffee: LinkedIn account: https://www.linkedin.com/in/ionut-dragomir-8a4b361b9/
-- :rocket: My projects: https://ionutdragomir.github.io/mainPage.html
+- :rocket: My CV: https://docs.google.com/document/d/1pXRsi8CGwCMYwBl6E67otG6_y9ogClXqjSBRtM28sjE/edit
