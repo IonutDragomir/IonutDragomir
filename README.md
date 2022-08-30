@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: ionutdragomir1410@yahoo.com
 - :coffee: LinkedIn account: https://www.linkedin.com/in/ionut-dragomir-8a4b361b9/
 - :rocket: My CV: https://docs.google.com/document/d/1bOPWMe4fshdw8K8g4LPfBrWEAAf1_0DJEU6YqEniBkM/edit
-:file_folder: My Portfolio: https://ionut-portfolio.netlify.app/
+- :file_folder: My Portfolio: https://ionut-portfolio.netlify.app/
