@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - :computer: I'm intrested in Software Development and Web Development
 - 📫 You can reach me at: ionutdragomir1410@yahoo.com
 - :coffee: LinkedIn account: https://www.linkedin.com/in/ionut-dragomir-8a4b361b9/
-- :rocket: My CV: https://docs.google.com/document/d/1bOPWMe4fshdw8K8g4LPfBrWEAAf1_0DJEU6YqEniBkM/edit
+- :rocket: My CV: https://drive.google.com/file/d/140FWdohcX3cZr9N46OmjdjBaTio-ceVf/view?usp=share_link
 - :file_folder: My Portfolio: https://ionut-portfolio.netlify.app/
